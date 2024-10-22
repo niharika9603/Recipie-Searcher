@@ -15,10 +15,6 @@ A simple web app that helps you find meal recipes based on the ingredients you h
 2. Click the search button to find meals.
 3. Click "Get Recipe" to view full instructions.
 
-## 📸 Preview
-
-![Find Meals For Your Ingredients](./food.jpg)
-
 ## 🛠️ Built With
 
 - **HTML**
